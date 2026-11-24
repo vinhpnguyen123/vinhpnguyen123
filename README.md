@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b5ba5,100:3d8a5f&height=200&section=header&text=Welcome%20to%20Vinh's%20Universe&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b5ba5,100:3d8a5f&height=200&section=header&text=Hi%20I'm%20Vinh%20Nguyen%20👋&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn" width="100%" />
 
 <a href="mailto:vinhnguyen.workswe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/vinh-n-al"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
